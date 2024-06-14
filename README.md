@@ -11,7 +11,7 @@
 |계산기 구현 미션|자바 프로그래밍 숙달<br>클린코드, 테스트 코드 작성<br>객체지향적인 설계와 프로그래밍|[PR 링크](https://github.com/prgrms-be-devcourse/java-calculator/pull/116)|2023.06.01<br>~ 2023.06.16|
 |디자인 패턴 탐구|디자인 패턴을 선택하여 탐구하고<br>팀 내에서 공유 및 발표하여 이해도 향상|[발표자료]()|2023.06.01<br>~ 2023.06.16|
 |SpringBoot<br>미션 1차|스프링에 대한 기초적인 이해와 활용|[PR 링크](https://github.com/prgrms-be-devcourse/springboot-basic/pulls?q=is%3Apr+%EC%A3%BC%ED%99%8D%EC%84%9D+is%3Aclosed)|2023.06.17<br>~ 2023.06.30|
-|SpringBoot<br>A-Z 프로젝트|특정 서비스를 클론 코딩하는 프로젝트 구현|[레포지토리](https://github.com/Juhongseok/RentalBook-Devcourse)<br>[발표영상](https://present.do/@hsj/64b7870e10ab9a5ae5600216)|2023.07.08<br>~ 2023.07.23|
+|SpringBoot<br>A-Z 프로젝트|SpringBoot를 사용하여 CRUD 기능 개발|[레포지토리](https://github.com/Juhongseok/RentalBook-Devcourse)<br>[발표영상](https://present.do/@hsj/64b7870e10ab9a5ae5600216)|2023.07.08<br>~ 2023.07.23|
 |SpringBoot JPA<br>1,2,3차 미션|JPA를 이용한 엔티티 연관관계 매핑 실습, CRUD 구현<br>영속성 컨텍스트의 엔티티 생명주기 실습|[PR 링크](https://github.com/prgrms-be-devcourse/springboot-jpa/pulls?q=is%3Apr+%EC%A3%BC%ED%99%8D%EC%84%9D+is%3Aclosed)|2023.07.22<br>~ 2023.08.04
 |SpringBoot<br>JPA 게시판<br>구현 미션|Spring Data JPA를 이용하여 게시판 구현 및 코드리뷰 연습|[PR 링크](https://github.com/prgrms-be-devcourse/springboot-board-jpa/pulls?q=is%3Apr+%EC%A3%BC%ED%99%8D%EC%84%9D+is%3Aclosed)|2023.07.22<br>~ 2023.08.04|
 
